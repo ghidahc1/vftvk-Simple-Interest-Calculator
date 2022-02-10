@@ -31,7 +31,4 @@ function SliderValue()
     {
         output.innerHTML = this.value;
     }  
-
-    
 }
-        
