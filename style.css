@@ -40,10 +40,10 @@ table td
 #compute
 {
     margin-bottom: 10px;
-    background-color: grey;
-    color: black;
+    background-color: white;
+    color: white;
     height: 40px;
-    width: 100px;
+    width: 150px;
 }
 #principal{
     height: 25px;
