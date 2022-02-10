@@ -1,3 +1,7 @@
+function showMessage() {
+	document.getElementById("result").style.display = "block";
+};
+
 function compute()
 {
     var principal = document.getElementById("principal").value;
